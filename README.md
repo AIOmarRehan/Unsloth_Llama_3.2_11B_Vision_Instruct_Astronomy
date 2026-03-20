@@ -191,3 +191,9 @@ These scores were produced from the saved notebook output and should be treated 
 - ![rouge_score](https://img.shields.io/badge/ROUGE_Score-000000?style=flat&logo=rouge&logoColor=white)
 - ![langdetect](https://img.shields.io/badge/langdetect-000000?style=flat&logo=langdetect&logoColor=white) 
 - ![Gradio](https://img.shields.io/badge/Gradio-FF5B00?style=flat&logo=gradio&logoColor=white) 
+
+---
+
+## Results
+
+![https://files.catbox.moe/3x5mp7.webp](https://files.catbox.moe/g5x3vt.mp4)
