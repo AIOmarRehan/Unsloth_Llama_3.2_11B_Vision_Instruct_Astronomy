@@ -1,8 +1,8 @@
-![Medium Article](https://medium.com/@ai.omar.rehan/fine-tuning-llama-3-2-11b-vision-on-an-astronomy-dataset-with-unsloth-bb184801564d)
+[Medium Article](https://medium.com/@ai.omar.rehan/fine-tuning-llama-3-2-11b-vision-on-an-astronomy-dataset-with-unsloth-bb184801564d)
 
 ---
 
-![Hugging Face Space](https://huggingface.co/spaces/AIOmarRehan/AstroVision-Llama-3.2-11B)
+[Hugging Face Space](https://huggingface.co/spaces/AIOmarRehan/AstroVision-Llama-3.2-11B)
 
 ---
 
