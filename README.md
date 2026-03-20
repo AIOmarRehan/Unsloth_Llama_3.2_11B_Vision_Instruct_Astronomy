@@ -196,4 +196,6 @@ These scores were produced from the saved notebook output and should be treated 
 
 ## Results
 
-[![Video Thumbnail](https://files.catbox.moe/3x5mp7.webp)](https://files.catbox.moe/g5x3vt.mp4)
+<a href="https://files.catbox.moe/g5x3vt.mp4">
+  <img src="https://files.catbox.moe/3x5mp7.webp" alt="Video Thumbnail" width="400">
+</a>
