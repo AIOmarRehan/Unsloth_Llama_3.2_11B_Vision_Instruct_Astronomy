@@ -196,4 +196,7 @@ These scores were produced from the saved notebook output and should be treated 
 
 ## Results
 
-![https://files.catbox.moe/3x5mp7.webp](https://files.catbox.moe/g5x3vt.mp4)
+<video controls>
+  <source src="https://files.catbox.moe/g5x3vt.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
