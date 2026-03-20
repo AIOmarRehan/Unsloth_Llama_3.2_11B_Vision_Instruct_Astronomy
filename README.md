@@ -1,3 +1,12 @@
+![Medium Article](https://medium.com/@ai.omar.rehan/fine-tuning-llama-3-2-11b-vision-on-an-astronomy-dataset-with-unsloth-bb184801564d)
+
+---
+
+![Hugging Face Space](https://huggingface.co/spaces/AIOmarRehan/AstroVision-Llama-3.2-11B)
+
+---
+
+
 # Astronomy Vision Fine-Tuning with Llama 3.2-11B & Unsloth
 
 This project fine-tunes a vision-language model for astronomy image description using Unsloth and Llama 3.2 11B Vision. The workflow covers dataset inspection, cleaning, multimodal formatting, LoRA fine-tuning, evaluation, deployment, and Hugging Face upload.
